@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/8c4c3fda-0839-4c36-af37-b9b851356713)
+
+
+
+
 # 💫 About Me:
 I am an AI/ML enthusiast with a passion for learning and exploring new technologies. Currently a student, I am constantly seeking opportunities to grow, innovate, and contribute to the field of artificial intelligence and machine learning.
 
