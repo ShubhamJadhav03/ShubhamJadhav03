@@ -13,3 +13,8 @@ I am an AI/ML enthusiast with a passion for learning and exploring new technolog
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJadhav03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhamJadhav03/ShubhamJadhav03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhamJadhav03/ShubhamJadhav03/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ShubhamJadhav03/ShubhamJadhav03/output/github-snake.svg" />
+</picture>
